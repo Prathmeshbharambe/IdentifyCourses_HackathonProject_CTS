@@ -1,0 +1,59 @@
+14:48:12.787 [main] INFO  TestCases.TC001_SearchwebDev - ****************** Execution Stop **********************
+14:50:19.327 [main] INFO  TestCases.TC001_SearchwebDev - ****************** Driver Launch **********************
+14:50:57.462 [main] INFO  TestCases.TC001_SearchwebDev -  Search ' WEB DEVELOPMENT ' Courses 
+14:51:36.253 [main] INFO  TestCases.TC001_SearchwebDev -  Language seleted 
+14:51:36.490 [main] INFO  TestCases.TC001_SearchwebDev -  Level Selected 
+14:51:37.066 [main] INFO  TestCases.TC001_SearchwebDev - Printing Course Data
+14:53:35.486 [main] INFO  TestCases.TC001_SearchwebDev - Click On Apply Button 
+14:53:35.937 [main] INFO  TestCases.TC001_SearchwebDev - Level list got printed 
+14:53:36.367 [main] INFO  TestCases.TC001_SearchwebDev - Clicked On 'COURSERA' 
+14:54:22.352 [main] INFO  TestCases.TC001_SearchwebDev -  Clicked  on 'FOR ENTERPRISE' 
+14:55:27.712 [main] INFO  TestCases.TC001_SearchwebDev - Clicked On Solutions 
+14:55:29.734 [main] INFO  TestCases.TC001_SearchwebDev - Clicked on 'COURSES FOR CAMPUS' 
+14:55:29.777 [main] INFO  TestCases.TC001_SearchwebDev - Error Message Occur 
+14:55:29.821 [main] INFO  TestCases.TC001_SearchwebDev - ****************** Execution Stop **********************
+16:19:55.030 [main] INFO  Cucumber.StepDefination - ****************** Driver Launch **********************
+16:53:14.753 [main] INFO  TestCases.TC001_SearchwebDev - ****************** Driver Launch **********************
+16:53:52.232 [main] INFO  TestCases.TC001_SearchwebDev -  Level Selected 
+16:53:57.533 [main] INFO  TestCases.TC001_SearchwebDev - Printing Course Data
+16:53:57.791 [main] INFO  TestCases.TC001_SearchwebDev - Level list got printed 
+16:53:57.852 [main] INFO  TestCases.TC001_SearchwebDev - Clicked On 'COURSERA' 
+16:53:57.875 [main] INFO  TestCases.TC001_SearchwebDev -  Clicked  on 'FOR ENTERPRISE' 
+16:53:58.907 [main] INFO  TestCases.TC001_SearchwebDev - Clicked On Solutions 
+16:54:00.944 [main] INFO  TestCases.TC001_SearchwebDev - Clicked on 'COURSES FOR CAMPUS' 
+16:54:00.978 [main] INFO  TestCases.TC001_SearchwebDev - Error Message Occur 
+16:54:01.010 [main] INFO  TestCases.TC001_SearchwebDev - ****************** Execution Stop **********************
+16:54:26.396 [main] INFO  TestCases.TC001_SearchwebDev - ****************** Driver Launch **********************
+16:55:04.623 [main] INFO  TestCases.TC001_SearchwebDev -  Search ' WEB DEVELOPMENT ' Courses 
+16:55:45.781 [main] INFO  TestCases.TC001_SearchwebDev -  Language seleted 
+16:55:46.023 [main] INFO  TestCases.TC001_SearchwebDev -  Level Selected 
+16:55:46.724 [main] INFO  TestCases.TC001_SearchwebDev - Printing Course Data
+16:57:24.902 [main] INFO  TestCases.TC001_SearchwebDev - Level list got printed 
+16:57:25.260 [main] INFO  TestCases.TC001_SearchwebDev - Clicked On 'COURSERA' 
+16:58:01.026 [main] INFO  TestCases.TC001_SearchwebDev -  Clicked  on 'FOR ENTERPRISE' 
+16:58:54.427 [main] INFO  TestCases.TC001_SearchwebDev - Clicked On Solutions 
+16:58:56.959 [main] INFO  TestCases.TC001_SearchwebDev - Clicked on 'COURSES FOR CAMPUS' 
+16:59:46.376 [main] INFO  TestCases.TC001_SearchwebDev - form got filled  
+16:59:46.619 [main] INFO  TestCases.TC001_SearchwebDev - Error Message Occur 
+16:59:47.722 [main] INFO  TestCases.TC001_SearchwebDev - ****************** Execution Stop **********************
+17:23:13.677 [main] INFO  Cucumber.StepDefination - ****************** Driver Launch **********************
+17:23:48.779 [main] INFO  Cucumber.StepDefination -  Search ' WEB DEVELOPMENT ' Courses 
+17:23:57.017 [main] INFO  Cucumber.StepDefination -  Language seleted 
+17:23:57.022 [main] INFO  Cucumber.StepDefination -  Level Selected 
+17:23:57.440 [main] INFO  Cucumber.StepDefination - Printing Course Data
+17:24:18.521 [main] INFO  Cucumber.StepDefination - Clicked On 'COURSERA' 
+17:24:55.563 [main] INFO  Cucumber.StepDefination -  Clicked  on 'FOR ENTERPRISE' 
+17:26:19.890 [main] INFO  Cucumber.StepDefination - Clicked On Solutions 
+17:26:22.596 [main] INFO  Cucumber.StepDefination - Clicked on 'COURSES FOR CAMPUS' 
+17:27:02.774 [main] INFO  Cucumber.StepDefination - form got filled  
+17:27:02.777 [main] INFO  Cucumber.StepDefination - Error Message Occur 
+17:31:53.800 [main] INFO  Cucumber.StepDefination - ****************** Driver Launch **********************
+17:32:34.590 [main] INFO  Cucumber.StepDefination -  Search ' WEB DEVELOPMENT ' Courses 
+17:33:16.950 [main] INFO  Cucumber.StepDefination -  Language seleted 
+17:33:16.954 [main] INFO  Cucumber.StepDefination -  Level Selected 
+17:33:17.509 [main] INFO  Cucumber.StepDefination - Printing Course Data
+17:34:26.152 [main] INFO  Cucumber.StepDefination - Language count
+17:34:27.206 [main] INFO  Cucumber.StepDefination - Language list got printed 
+17:34:32.858 [main] INFO  Cucumber.StepDefination - Click On Apply Button 
+17:34:33.583 [main] INFO  Cucumber.StepDefination - Level list got printed 
+17:34:36.768 [main] INFO  Cucumber.StepDefination - Clicked On 'COURSERA' 

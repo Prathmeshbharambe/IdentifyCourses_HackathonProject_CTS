@@ -1,0 +1,59 @@
+12:35:37.004 [main] INFO  TestCases.TC001_SearchwebDev -  Search ' WEB DEVELOPMENT ' Courses 
+12:35:48.838 [main] INFO  TestCases.TC001_SearchwebDev -  Language seleted 
+12:35:49.060 [main] INFO  TestCases.TC001_SearchwebDev -  Level Selected 
+12:35:49.600 [main] INFO  TestCases.TC001_SearchwebDev - Printing Course Data
+12:36:07.958 [main] INFO  TestCases.TC001_SearchwebDev - Language count
+12:36:08.705 [main] INFO  TestCases.TC001_SearchwebDev - Language list got printed 
+12:36:13.060 [main] INFO  TestCases.TC001_SearchwebDev - Click On Apply Button 
+12:36:14.003 [main] INFO  TestCases.TC001_SearchwebDev - Level list got printed 
+12:36:16.848 [main] INFO  TestCases.TC001_SearchwebDev - Clicked On 'COURSERA' 
+12:36:25.205 [main] INFO  TestCases.TC001_SearchwebDev -  Clicked  on 'FOR ENTERPRISE' 
+12:36:43.687 [main] INFO  TestCases.TC001_SearchwebDev - Clicked On Solutions 
+12:36:46.636 [main] INFO  TestCases.TC001_SearchwebDev - Clicked on 'COURSES FOR CAMPUS' 
+12:36:56.929 [main] INFO  TestCases.TC001_SearchwebDev - form got filled  
+12:36:57.141 [main] INFO  TestCases.TC001_SearchwebDev - Error Message Occur 
+12:36:58.224 [main] INFO  TestCases.TC001_SearchwebDev - ****************** Execution Stop **********************
+14:00:53.455 [main] INFO  TestCases.TC001_SearchwebDev - Chrome browser opened successfully
+14:00:53.466 [main] INFO  TestCases.TC001_SearchwebDev - ****************** Driver Launch **********************
+14:01:04.683 [main] INFO  TestCases.TC001_SearchwebDev -  Search ' WEB DEVELOPMENT ' Courses 
+14:01:27.191 [main] INFO  TestCases.TC001_SearchwebDev -  Language seleted 
+14:01:27.474 [main] INFO  TestCases.TC001_SearchwebDev -  Level Selected 
+14:01:28.267 [main] INFO  TestCases.TC001_SearchwebDev - Printing Course Data
+14:02:25.610 [main] INFO  TestCases.TC001_SearchwebDev - Language count
+14:02:30.676 [main] INFO  TestCases.TC001_SearchwebDev - Language list got printed 
+14:02:37.177 [main] INFO  TestCases.TC001_SearchwebDev - Click On Apply Button 
+14:02:42.545 [main] INFO  TestCases.TC001_SearchwebDev - Level list got printed 
+14:02:45.810 [main] INFO  TestCases.TC001_SearchwebDev - Clicked On 'COURSERA' 
+14:02:46.327 [main] INFO  TestCases.TC001_SearchwebDev -  Clicked  on 'FOR ENTERPRISE' 
+14:05:12.387 [main] INFO  TestCases.TC001_SearchwebDev - Clicked On Solutions 
+14:05:15.498 [main] INFO  TestCases.TC001_SearchwebDev - Clicked on 'COURSES FOR CAMPUS' 
+14:05:15.539 [main] INFO  TestCases.TC001_SearchwebDev - Error Message Occur 
+14:05:15.577 [main] INFO  TestCases.TC001_SearchwebDev - ****************** Execution Stop **********************
+14:06:58.992 [main] INFO  TestCases.TC001_SearchwebDev - Chrome browser opened successfully
+14:06:59.003 [main] INFO  TestCases.TC001_SearchwebDev - ****************** Driver Launch **********************
+14:07:15.309 [main] INFO  TestCases.TC001_SearchwebDev -  Search ' WEB DEVELOPMENT ' Courses 
+14:07:39.916 [main] INFO  TestCases.TC001_SearchwebDev -  Language seleted 
+14:07:40.155 [main] INFO  TestCases.TC001_SearchwebDev -  Level Selected 
+14:07:40.715 [main] INFO  TestCases.TC001_SearchwebDev - Printing Course Data
+14:08:20.195 [main] INFO  TestCases.TC001_SearchwebDev - Language count
+14:08:20.950 [main] INFO  TestCases.TC001_SearchwebDev - Language list got printed 
+14:08:25.058 [main] INFO  TestCases.TC001_SearchwebDev - Click On Apply Button 
+14:08:25.900 [main] INFO  TestCases.TC001_SearchwebDev - Level list got printed 
+14:08:28.799 [main] INFO  TestCases.TC001_SearchwebDev - Clicked On 'COURSERA' 
+14:08:56.079 [main] INFO  TestCases.TC001_SearchwebDev -  Clicked  on 'FOR ENTERPRISE' 
+14:09:29.137 [main] INFO  TestCases.TC001_SearchwebDev - Clicked On Solutions 
+14:09:31.702 [main] INFO  TestCases.TC001_SearchwebDev - Clicked on 'COURSES FOR CAMPUS' 
+14:09:59.903 [main] INFO  TestCases.TC001_SearchwebDev - form got filled  
+14:10:00.183 [main] INFO  TestCases.TC001_SearchwebDev - Error Message Occur 
+14:10:01.152 [main] INFO  TestCases.TC001_SearchwebDev - ****************** Execution Stop **********************
+14:24:17.688 [main] INFO  TestCases.TC001_SearchwebDev - Chrome browser opened successfully
+14:24:17.698 [main] INFO  TestCases.TC001_SearchwebDev - ****************** Driver Launch **********************
+14:24:40.301 [main] INFO  TestCases.TC001_SearchwebDev -  Level Selected 
+14:24:45.561 [main] INFO  TestCases.TC001_SearchwebDev - Printing Course Data
+14:24:57.095 [main] INFO  TestCases.TC001_SearchwebDev - Click On Apply Button 
+14:24:57.286 [main] INFO  TestCases.TC001_SearchwebDev - Level list got printed 
+14:24:57.465 [main] INFO  TestCases.TC001_SearchwebDev - Clicked On 'COURSERA' 
+14:25:02.691 [main] INFO  TestCases.TC001_SearchwebDev -  Clicked  on 'FOR ENTERPRISE' 
+14:25:08.952 [main] INFO  TestCases.TC001_SearchwebDev - Clicked On Solutions 
+14:25:16.180 [main] INFO  TestCases.TC001_SearchwebDev - Clicked on 'COURSES FOR CAMPUS' 
+14:25:21.635 [main] INFO  TestCases.TC001_SearchwebDev - Error Message Occur 
